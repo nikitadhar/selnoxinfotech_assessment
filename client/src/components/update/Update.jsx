@@ -57,7 +57,7 @@ export default function Update() {
             <div>
               <label htmlFor="">Start Date</label>
               <div>
-                <input type="date" name="StartDate"
+              <input type="date" name="StartDate"
                 //  value={values.StartDate}
                   />
               </div>
