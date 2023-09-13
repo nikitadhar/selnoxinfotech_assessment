@@ -63,7 +63,7 @@ th {
 display: block;
 }
 .edit{
- 
+  cursor: pointer;
     display: flex;
     gap: 8px;
     
